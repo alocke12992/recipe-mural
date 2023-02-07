@@ -1,0 +1,13 @@
+{
+  "id": "mural",
+  "name": "Mural",
+  "version": "1.0.1",
+  "description": "Mural Ferdium integration",
+  "main": "index.js",
+  "author": "Andrew Locke <alocke12992@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alocke12992/recipe-mural",
+  "config": {
+    "serviceURL": "https://app.mural.co/"
+  }
+}
